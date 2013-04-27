@@ -8,6 +8,7 @@ public class main {
 		// TODO Auto-generated method stub
 		System.out.println("hihi");
 		System.out.println("commit");
+		System.out.println("commit2");
 	}
 
 }
