@@ -11,6 +11,8 @@ public class main {
 		System.out.println("commit2");
 
 		System.out.println("commit");
+		
+		System.out.println("master");
 	}
 
 }
